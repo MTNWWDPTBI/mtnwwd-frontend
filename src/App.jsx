@@ -9,7 +9,8 @@ import {
 } from 'lucide-react';
 
 // URL BACKEND KITA (Jika sudah di-hosting, ganti localhost dengan URL Hosting Backend)
-const API_URL = 'http://localhost:5000/api';
+// Menjadi ini:
+const API_URL = 'http://127.0.0.1:8000/api';
 
 const MASTER_PSA = {
   'SHX G3': [
